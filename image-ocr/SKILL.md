@@ -2,7 +2,7 @@
 name: image-ocr
 description: "Use when recognizing text and content from images in markdown notes — uses model vision to read images, update image alt-text descriptions, and extract text content as blockquotes below each image"
 metadata:
-  author: 42ailab
+  author: redzhx
   version: 1.0.0
   title: 图片OCR识别工具
   description_zh: 使用大模型视觉能力识别Markdown笔记中的图片，更新图片链接中的说明文字，提取图片中的文字内容并以引用格式置于图片下方，不修改原文件

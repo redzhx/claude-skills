@@ -2,7 +2,7 @@
 name: notes-supplement
 description: "Use when supplementing course notes with speech-to-text (STT) transcripts - matches STT content to note sections, adds AI-supplemented content with clear labels, reformats to clean markdown, saves as new file without modifying original"
 metadata:
-  author: 42ailab
+  author: redzhx
   version: 2.0.0
   title: 课程笔记补充工具
   description_zh: 读取Markdown课程笔记和语音文字稿（STT），按优先级（笔记>语音）智能去重整合，逐句匹配生成出版级完整笔记，绝不简化内容，不修改原文件。图片OCR由 image-ocr skill 单独处理。

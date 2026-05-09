@@ -5,7 +5,7 @@ description: >-
   local OCR engines — uses minicpm-v (Ollama) as primary engine for image
   description and text extraction, with Tesseract as fallback
 metadata:
-  author: 42ailab
+  author: redzhx
   title: 本地图片OCR识别工具
   description_zh: >-
     使用minicpm-v（5.5B多模态模型，通过Ollama）识别Markdown笔记中的图片，更新图片链接说明文字，提取文字内容以引用格式置于图片下方，按语义合并断行。Tesseract兜底。完全本地，不修改原文件。
